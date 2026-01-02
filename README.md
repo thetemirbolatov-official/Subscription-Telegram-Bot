@@ -143,7 +143,7 @@ CHANNELS = [
 **thetemirbolatov**
 
 [![Telegram](https://img.shields.io/badge/Telegram-@thetemirbolatov-0088cc?logo=telegram)](https://t.me/thetemirbolatov)
-[![VK](https://img.shields.io/badge/VK-Темир_Болатов-0077ff?logo=vk)](https://vk.com/thetemirbolatov)
+[![VK](https://img.shields.io/badge/VK-thetemirbolatov-0077ff?logo=vk)](https://vk.com/thetemirbolatov)
 [![Instagram](https://img.shields.io/badge/Instagram-@thetemirbolatov-E4405F?logo=instagram)](https://instagram.com/thetemirbolatov)
 
 Если у вас есть вопросы, предложения или вы нашли ошибку, свяжитесь со мной через социальные сети выше.
